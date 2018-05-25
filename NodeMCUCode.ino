@@ -36,8 +36,7 @@ static const uint8_t D2   = 2;
 
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
 WiFiClient client;
-// or... use WiFiFlientSecure for SSL
-//WiFiClientSecure client;
+
 
 const char MQTT_SERVER[] PROGMEM    = AIO_SERVER;
 
