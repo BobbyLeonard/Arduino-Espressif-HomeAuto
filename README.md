@@ -16,3 +16,4 @@ data from the MQTT server. Using an MQTT client app for android allows you to co
 The clock on the Atmega was running slow so the NodeMCU gets the NTP time 
 and then the Atmega keeps its time by updating every few seconds. 
 
+![alt text](https://github.com/BobbyLeonard/Arduino-Espressif-HomeAuto/raw/master/Atmega%26NodeMCU.jpg)
