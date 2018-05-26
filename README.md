@@ -1,4 +1,4 @@
-# Arduino-Espressif-HomeAuto
+# Arduino-NodeMCU-HomeAuto
 A Home Automation system i designed and built for learning purposes.
 I made it by piecing together various bits of code and libraries 
 from sources on the internet with my own code. 
