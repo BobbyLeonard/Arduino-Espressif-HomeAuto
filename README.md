@@ -16,3 +16,5 @@ The clock on the Atmega was running slow so the NodeMCU gets the NTP time
 and then the Atmega keeps its time by updating every few seconds. 
 
 ![alt text](https://github.com/BobbyLeonard/Arduino-Espressif-HomeAuto/raw/master/Atmega%26NodeMCU.jpg)
+
+![alt text](https://github.com/BobbyLeonard/Arduino-NodeMCU-HomeAuto/raw/master/InConstruction.jpg)
