@@ -1,11 +1,12 @@
 # Arduino-Espressif-HomeAuto
-A Home Automation system i put together myself for learning purposes.
-I put it together by piecing various component parts of code and libraries 
-from sources on the internet along with my own code
+A Home Automation system i designed and built for learning purposes.
+I made it by piecing together various bits of code and libraries 
+from sources on the internet with my own code. 
+"Electronics for Dummies" helped me build the circuit.
 
-See Atmega&NodeMCU.jpg above for the wiring diagram.
+See below for the wiring diagram.
 
-I programmed the Atmega using the Arduino board and then removed it.
+I programmed the Atmega chip over usb using the Arduino board and then removed it.
 The circuitry on the left of the pushbutton is for the 5V voltage regulator used 
 for the Atmega. 
 
