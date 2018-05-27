@@ -19,3 +19,5 @@ The LCD is controlled through a shift register to reduce the number of pins used
 ![alt text](https://github.com/BobbyLeonard/Arduino-Espressif-HomeAuto/raw/master/Atmega%26NodeMCU.jpg)
 
 ![alt text](https://github.com/BobbyLeonard/Arduino-NodeMCU-HomeAuto/raw/master/InConstruction.jpg)
+
+
