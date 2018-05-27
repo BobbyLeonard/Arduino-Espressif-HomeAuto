@@ -11,7 +11,7 @@ The Atmega and NodeMCU communicate using I2C. Essentially the NodeMCU is
 the access point for the Atmega to connect to the Internet and get commands/report values to the MQTT server.
 Using an MQTT client app for android allows you to control the relays and view sensor values remotely.
 
-Using a SoftRTC and updating the time using NTP gives accurate time and allows you to switch the relays at a specific time
+Using a SoftRTC and updating the time using NTP gives an accurate clock and allows you to switch the relays at specific times.
 
 The LCD is controlled through a shift register to reduce the number of pins used 
 
